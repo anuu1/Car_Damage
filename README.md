@@ -5,5 +5,6 @@
 💻 Run this in terminal:
 
 pip install -r requirements.txt
+
 pip install cvzone
 ▶️ Run the main Python file to start the project
